@@ -1,5 +1,6 @@
 package Heroes;
 
+
 public class Angel extends Creature {
 
 

@@ -8,6 +8,7 @@ abstract class Creature {
     private int speed;
     private int health;
     private int quantity;
+
     public Creature(String name, int level, int attack, int defense, int speed, int health, int quantity) {
         this.name = name;
         this.level = level;
@@ -86,3 +87,5 @@ abstract class Creature {
 
 
 }
+
+
